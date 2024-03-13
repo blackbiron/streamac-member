@@ -1,0 +1,12 @@
+Am_Exception_FatalError: License error - license domain does not match your domain (localhost!=streamac.com)<br />
+at http://localhost/cron/tasks<br />
+ref from http://localhost/admin-license<br><a href='/admin-license'>If you are the site administrator, click this link to fix</a> in /Users/blackbiron/projects/amember/library/Am/License.php(19) : eval()'d code(1) : eval()'d code:473
+Stack trace:
+#0 /Users/blackbiron/projects/amember/library/Am/License.php(19) : eval()'d code(1) : eval()'d code(122): amember_get_iconf_r()
+#1 /Users/blackbiron/projects/amember/library/Am/App.php(978): Am_License->init(Object(Am_App))
+#2 /Users/blackbiron/projects/amember/library/Am/App.php(907): Am_App->initTranslate()
+#3 /Users/blackbiron/projects/amember/bootstrap.php(20): Am_App->bootstrap()
+#4 /Users/blackbiron/projects/amember/index.php(91): require_once('/Users/blackbir...')
+#5 {main}:License error - license domain does not match your domain (localhost!=streamac.com)<br />
+at http://localhost/cron/tasks<br />
+ref from http://localhost/admin-license<br><a href='/admin-license'>If you are the site administrator, click this link to fix</a>

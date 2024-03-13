@@ -1,0 +1,83 @@
+a:4:{s:4:"data";s:1897:"s:1887:"<h2>Today<span class="widget-title-info"> &middot;
+            03/04/24    </span></h2>
+<div class="admin-dashboard-wrapper">
+<table class="admin-dashboard">
+    <tr>
+        <td class="first">
+                        <dl>
+    <dt>Payments</dt>
+    <dd>
+                    0
+            </dd>
+</dl>
+                        <dl>
+    <dt>Refunds</dt>
+    <dd>
+                    0
+            </dd>
+</dl>
+                                            </td>
+        <td>
+                        <dl>
+    <dt>Registrations</dt>
+        <dd>
+                    0
+            </dd>
+</dl>
+                        <dl>
+    <dt>Cancellations</dt>
+        <dd>
+                    0
+            </dd>
+</dl>
+                        <dl>
+    <dt>Rebills <small title="03/05/24" style="opacity: .7;">next day</small></dt>
+        <dd>
+                    0
+            </dd>
+</dl>
+                    </td>
+    </tr>
+</table>
+</div><h2>This Week (Sun-Sat)<span class="widget-title-info"> &middot;
+            03/03/24&ndash;03/09/24    </span></h2>
+<div class="admin-dashboard-wrapper">
+<table class="admin-dashboard">
+    <tr>
+        <td class="first">
+                        <dl>
+    <dt>Payments</dt>
+    <dd>
+                    0
+            </dd>
+</dl>
+                        <dl>
+    <dt>Refunds</dt>
+    <dd>
+                    0
+            </dd>
+</dl>
+                                            </td>
+        <td>
+                        <dl>
+    <dt>Registrations</dt>
+        <dd>
+                    0
+            </dd>
+</dl>
+                        <dl>
+    <dt>Cancellations</dt>
+        <dd>
+                    0
+            </dd>
+</dl>
+                        <dl>
+    <dt>Rebills <small title="03/05/24&ndash;03/12/24" style="opacity: .7;">next 7 days</small></dt>
+        <dd>
+                    0
+            </dd>
+</dl>
+                    </td>
+    </tr>
+</table>
+</div>";";s:8:"lifetime";i:2592000;s:6:"expire";i:1712161885;s:8:"priority";i:8;}
